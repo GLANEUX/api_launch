@@ -1,7 +1,4 @@
 #API Launch
 
-1 - npm
-2 - api basic -> launch
-3 - model launch
-4 - provider
-5 - stocker mongo
+Ajoute les données des lancements de spaceX dans notre API
+- utilisation de providers
